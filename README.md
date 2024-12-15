@@ -1,8 +1,10 @@
 
-<div align=center>
-<img src="![fb1f063347ac9a2c538e2a6b5618ad7e](https://github.com/user-attachments/assets/3c96dddb-774f-41bd-8907-2f2ed246f8f4)
-" width="180" height="105"> width="180" height="105"/>
-</div>
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/6a89902f-0921-4a5e-8325-ed5c97c9bf87">
+    <img src="https://github.com/user-attachments/assets/6a89902f-0921-4a5e-8325-ed5c97c9bf87"/>
+  </a>
+</p>
+
 
 # 群内铁含量识别
 50%的概率触发BOT回复，觉得触发概率太高了的话，代码里面可以改
