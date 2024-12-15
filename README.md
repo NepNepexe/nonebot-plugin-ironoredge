@@ -1,4 +1,4 @@
-![fb1f063347ac9a2c538e2a6b5618ad7e](https://github.com/user-attachments/assets/e7210022-74ce-4003-9afd-5bc42073165a#pic_center)
+![fb1f063347ac9a2c538e2a6b5618ad7e](https://github.com/user-attachments/assets/e7210022-74ce-4003-9afd-5bc42073165a#pic_center =500x300))
 
 # 群内铁含量识别
 50%的概率触发BOT回复，觉得触发概率太高了的话，代码里面可以改
