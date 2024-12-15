@@ -1,4 +1,8 @@
-![fb1f063347ac9a2c538e2a6b5618ad7e](https://github.com/user-attachments/assets/e7210022-74ce-4003-9afd-5bc42073165a#pic_center =500x300))
+
+<div align=center>
+<img src="![fb1f063347ac9a2c538e2a6b5618ad7e](https://github.com/user-attachments/assets/3c96dddb-774f-41bd-8907-2f2ed246f8f4)
+" width="180" height="105"> width="180" height="105"/>
+</div>
 
 # 群内铁含量识别
 50%的概率触发BOT回复，觉得触发概率太高了的话，代码里面可以改
